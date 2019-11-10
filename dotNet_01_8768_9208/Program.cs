@@ -42,7 +42,7 @@ namespace dotNet5780_01_8768_9208
                 Console.Write("{0,-3} ", C[i]);
             }
 
-            Console.WriteLine(" ");
+            
             Console.ReadKey();
         }
     }
