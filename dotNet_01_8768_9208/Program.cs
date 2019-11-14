@@ -17,6 +17,7 @@ namespace dotNet5780_01_8768_9208
             int[] A = new int[20];
             int[] B = new int[20];
             int[] C = new int[20];
+            Console.WriteLine("jai change le code");
 
             for (int i = 0; i < 20; i++)
             {
